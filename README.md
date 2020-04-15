@@ -30,5 +30,5 @@ Reference https://github.com/airbnb/javascript as a guideline. Keep in mind most
 - With front-end frameworks, such as Angular, we also utilize [component styles](https://angular.io/guide/component-styles).
 
 ## Drupal
-- This is a work in progress. We are looking to adapt lint and prettier to our php projects.
 - We recommend following [Drupal's specific guidelines](https://www.drupal.org/docs/develop/standards).
+- We are looking to adapt lint and prettier to our php projects so the majority of these rules can be applied automatically.
