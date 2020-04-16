@@ -1,5 +1,3 @@
-# Coding Guidelines
-
 ## Tools
 We use linters as well as prettier to enforce a number of coding guidelines. Refer to our [.eslintrc.js](docs/eslint.md) example and our [prettier config](docs/prettier.md) for specific details.
 
