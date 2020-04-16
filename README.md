@@ -1,7 +1,7 @@
 # Coding Guidelines
 
 ## Tools
-We use linters as well as prettier to enforce a number of coding guidelines. Refer to our [.eslintrc.js](.eslintrc.js) example and our [prettier config](.prettierrc) for specific details.
+We use linters as well as prettier to enforce a number of coding guidelines. Refer to our [.eslintrc.js](docs/eslint.md) example and our [prettier config](docs/prettier.md) for specific details.
 
 #### Common guidelines that are not in lint/prettier
 - Use promises instead of callbacks.
