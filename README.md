@@ -3,7 +3,7 @@ We use linters as well as Prettier to enforce a number of coding guidelines. Ref
 
 #### Common guidelines that are not in lint/Prettier
 - Use promises instead of callbacks.
-- Use [es6 features](https://github.com/airbnb/javascript#ecmascript-6-es-2015-styles) (arrow functions, map, spreads)
+- Use [es6 features](https://github.com/airbnb/javascript#ecmascript-6-es-2015-styles) (arrow functions, classes, default parameters, spreads, etc)
 - _camelCase for private variables and methods (TypeScript only).
 
 #### Common guidelines inferred from our linting/Prettier config
